@@ -9,7 +9,7 @@ title: simple site
 
 Created [project schedule](https://github.com/chris0707/PiRover/blob/master/AlbarilloChristopher.mpp).  
 ![Image of Schedule](https://github.com/chris0707/PiRover/blob/master/Deliverables/Ps1.PNG).
-(https://github.com/chris0707/PiRover/blob/master/Deliverables/Ps2.PNG).
+![Image of Schedule](https://github.com/chris0707/PiRover/blob/master/Deliverables/Ps2.PNG).
 
 ### September 13, 2017
 
