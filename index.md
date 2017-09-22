@@ -4,12 +4,7 @@ description: Simple website with GitHub Pages
 layout: page
 title: simple site
 ---
-
-Example Blog.
--------------
-
  
-
 ### September 20, 2017
 
 Created [project schedule](https://github.com/chris0707/PiRover/blob/master/AlbarilloChristopher.mpp).  
