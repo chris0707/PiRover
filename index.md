@@ -7,7 +7,7 @@ title: simple site
  
 ### September 20, 2017
 
-Created [project schedule](https://github.com/chris0707/PiRover/blob/master/AlbarilloChristopher.mpp).  
+Created [project schedule](https://github.com/chris0707/PiRover/blob/master/AlbarilloChristopher.mpp) using Microsoft Office Project.  
 ![Image of Schedule](https://github.com/chris0707/PiRover/blob/master/Deliverables/Ps1.PNG).
 ![Image of Schedule](https://github.com/chris0707/PiRover/blob/master/Deliverables/Ps2.PNG).
 
