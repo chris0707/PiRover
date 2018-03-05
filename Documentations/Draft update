@@ -6,9 +6,11 @@ Content. Things that needs to be worked on or improved, are the password verific
 of the passwords that are stored.
 
 Lawrence - Currently updating the user interface of the android application and at the same time working on the raspberry pi with Patrick
-to implement voice control. 
+to implement voice control. Also working on the GUI of the android application to maintain an up to date look that satisfies the users, 
+while delivering the full functionality of the application.
 
-Patrick - Currently working on voice control for the raspberry pi
+Patrick - Currently working on voice control for the raspberry pi. Also working with Lawrence to allow full compatibility 
+with the Android application and the voice control system.
 
 From,
 Christopher Albarillo
