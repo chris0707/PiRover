@@ -1,8 +1,8 @@
 Dear Kristian,
 
 Our progress for this week, is as follows:
-Christopher - Currently working on our database. I have already created the fields which consists of the Username, Password, Name,and
-Content. Things that needs to be worked on or improved, are the password verification, username already exists verification, and hashing
+Christopher - Currently working on our database. I have already created the fields which consists of the Username, Password, Name, and
+Content. Things that needs to be worked on or improved; password verification, username already exists verification, and hashing
 of the passwords that are stored.
 
 Lawrence - Currently updating the user interface of the android application and at the same time working on the raspberry pi with Patrick
@@ -11,6 +11,22 @@ while delivering the full functionality of the application.
 
 Patrick - Currently working on voice control for the raspberry pi. Also working with Lawrence to allow full compatibility 
 with the Android application and the voice control system.
+
+Problem:
+
+Database - The web host database has expired but renewed the database with a different hosting server. We will have to migrate the data from the previous database to the new host.
+
+Voice Control - Still researching a way to run the python codes from a script as the voice control program is based of running scripts.  
+
+Financial:
+
+PCB - we decide to switch to a PCB to change the old setup to make it more compact as previously the setup was using a small breadboard 
+to wire everything. We also had bought a stacking header as the prototype lab did not have any leftover from the last semesters
+PCB creations. The price of the header was about $16, as we purchased a pack.
+
+Voice Control - We have to purchase a USB microphone as the Raspberry PI does not have a microphone embedded into the device. 
+Reason for the USB version is that, it make it more compact thus to the fact that it's a small attachment compared to a 
+sound card + 3.5mm microphone. Cost for these parts is undecided since we have not decided on the parts yet. 
 
 From,
 Christopher Albarillo
