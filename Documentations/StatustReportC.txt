@@ -1,0 +1,47 @@
+Dear Kristian,
+
+This is our PiRovers Project's status update as of the week of Apirl 1, 2018.
+
+Current/Recent Progress:
+
+Hardware
+Since the last status update, we have begun troubleshooting for the PiRover;
+Movement, stability, terrain, and other basic troubleshooting.
+We have also fixed a few bugs with the PiRover such as a circuitry issue with
+the PCB. The issue was causing the PiRover's sensor to be grounded and current
+was not able to pass through.
+
+On March 24th 2018, our replacement microphone for the voice application to the
+PiRover has arrived. Testing for this function has begun. Unfortunately we are
+still having software issues causing invalid inputs/outputs.
+
+Android Application
+In our android application, we have begun more testing on the application
+as the application aspects is meeting its final stage. Although we are still
+redesigning the application, we believe the app is working the way we have
+imagined.
+
+Database
+The database we have chosen has been working successfully. As we have begun
+testing on both application and hardware, the database is also being tested.
+Data is being sucessfully delivered to the database from the android application.
+Link for our current database:
+https://auth-db132.hostinger.com/sql.php?server=1&db=u352817062_bane&table=pirover&pos=0&token=a79514e8bf8d4521007747c306b445c8
+
+
+Other Problems
+The set back of the microphone as written in our previous update report, has caused
+us to be behind of our schedule for implementing the voice control. This has delayed
+implementation, testing, and user easy to use application for the voice control.
+
+The android application forwards, backwards, left and right buttons, can be adjusted
+to be pressed at the same time. The issue it's causing now is, if two movements
+are addressed simutanously it will cause the application to get stuck/unresponsive.
+
+
+Financial
+The microphone has arrived safely and is working well compared to the old microphone
+delivered. We have not paid any extra fees for the substitution.
+
+From,
+Lawrence Puig
